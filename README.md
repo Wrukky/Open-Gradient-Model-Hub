@@ -1,4 +1,4 @@
-# OpenGradient Model Hub
+# Open Gradient Model Hub
 
 A visual discovery site for all AI models available on the [OpenGradient Hub](https://hub.opengradient.ai/models) — showing what each model is best for, its strengths, and how to use it.
 
